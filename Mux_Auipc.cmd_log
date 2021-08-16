@@ -1,0 +1,1 @@
+vhdtdtfi -prj TPI2 -o "D:/Facultad/3ro/Organizacion de las computadoras/TP2/TPI2/Mux_Auipc.vhi" -module Mux_Auipc -template D:/Programas/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Mux_Auipc.vhd 

@@ -1,0 +1,59 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/TPI2/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.14 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/TPI2/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.15 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/TPI2/Main_Decoder.vhd" in Library work.
+Architecture behavioral of Entity main_decoder is up to date.
+Compiling vhdl file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/TPI2/Alu_Decoder.vhd" in Library work.
+Architecture behavioral of Entity alu_decoder is up to date.
+Compiling vhdl file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/TPI2/Sumador_PC_4.vhd" in Library work.
+Architecture behavioral of Entity sumador_pc_4 is up to date.
+Compiling vhdl file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/TPI2/Contador_Programa.vhd" in Library work.
+Architecture behavioral of Entity contador_de_programa is up to date.
+Compiling vhdl file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/TPI2/mem_ROM.vhd" in Library work.
+Architecture behavioral of Entity mem_rom is up to date.
+Compiling vhdl file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/TPI2/Banco_De_Regsitros.vhd" in Library work.
+Architecture behavioral of Entity banco_de_registros is up to date.
+Compiling vhdl file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/TPI2/Gen_Imm.vhd" in Library work.
+Architecture behavioral of Entity gen_imm is up to date.
+Compiling vhdl file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/TPI2/Mux2x1_SrcB.vhd" in Library work.
+Architecture behavioral of Entity mux2x1_srcb is up to date.
+Compiling vhdl file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/TPI2/ALU.vhd" in Library work.
+Architecture behavioral of Entity alu is up to date.
+Compiling vhdl file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/TPI2/Mux2x1_Data.vhd" in Library work.
+Architecture behavioral of Entity mux2x1_data is up to date.
+Compiling vhdl file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/TPI2/Camino_Datos.vhd" in Library work.
+Architecture behavioral of Entity camino_datos is up to date.
+Compiling vhdl file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/TPI2/Unit_Control.vhd" in Library work.
+Architecture behavioral of Entity unit_control is up to date.
+Compiling vhdl file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/TPI2/Procesador.vhd" in Library work.
+Entity <procesador> compiled.
+ERROR:HDLParsers:837 - "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/TPI2/Procesador.vhd" Line 83. Width mismatch. Expected width 11, Actual width is 12 for dimension 1 of Cod_intermedia.
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.98 secs
+ 
+--> 
+
+Total memory usage is 4476164 kilobytes
+
+Number of errors   :    1 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

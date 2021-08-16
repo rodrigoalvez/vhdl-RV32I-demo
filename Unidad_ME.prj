@@ -1,0 +1,4 @@
+vhdl work "Reg_ME.vhd"
+vhdl work "Mux_ME.vhd"
+vhdl work "Contador_ME.vhd"
+vhdl work "Unidad_ME.vhd"

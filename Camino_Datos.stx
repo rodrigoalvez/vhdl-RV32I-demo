@@ -1,0 +1,69 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to D:/Facultad/3ro/Organizacion de las computadoras/TP2/TPI2/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.09 secs
+ 
+--> Parameter xsthdpdir set to D:/Facultad/3ro/Organizacion de las computadoras/TP2/TPI2/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.09 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "D:/Facultad/3ro/Organizacion de las computadoras/TP2/TPI2/Reg_ME.vhd" in Library work.
+Architecture behavioral of Entity reg_me is up to date.
+Compiling vhdl file "D:/Facultad/3ro/Organizacion de las computadoras/TP2/TPI2/Contador_ME.vhd" in Library work.
+Architecture behavioral of Entity contador_me is up to date.
+Compiling vhdl file "D:/Facultad/3ro/Organizacion de las computadoras/TP2/TPI2/Mux_ME.vhd" in Library work.
+Architecture behavioral of Entity mux_me is up to date.
+Compiling vhdl file "D:/Facultad/3ro/Organizacion de las computadoras/TP2/TPI2/Mux_Jump.vhd" in Library work.
+Architecture behavioral of Entity mux_jump is up to date.
+Compiling vhdl file "D:/Facultad/3ro/Organizacion de las computadoras/TP2/TPI2/Mux_PCNext.vhd" in Library work.
+Architecture behavioral of Entity mux_pcplus4 is up to date.
+Compiling vhdl file "D:/Facultad/3ro/Organizacion de las computadoras/TP2/TPI2/Sumador_PC_4.vhd" in Library work.
+Architecture behavioral of Entity sumador_pc_4 is up to date.
+Compiling vhdl file "D:/Facultad/3ro/Organizacion de las computadoras/TP2/TPI2/Contador_Programa.vhd" in Library work.
+Architecture behavioral of Entity contador_de_programa is up to date.
+Compiling vhdl file "D:/Facultad/3ro/Organizacion de las computadoras/TP2/TPI2/mem_ROM.vhd" in Library work.
+Architecture behavioral of Entity mem_rom is up to date.
+Compiling vhdl file "D:/Facultad/3ro/Organizacion de las computadoras/TP2/TPI2/Banco_De_Regsitros.vhd" in Library work.
+Architecture behavioral of Entity banco_de_registros is up to date.
+Compiling vhdl file "D:/Facultad/3ro/Organizacion de las computadoras/TP2/TPI2/Gen_Imm.vhd" in Library work.
+Architecture behavioral of Entity gen_imm is up to date.
+Compiling vhdl file "D:/Facultad/3ro/Organizacion de las computadoras/TP2/TPI2/Mux_JR.vhd" in Library work.
+Architecture behavioral of Entity mux_jr is up to date.
+Compiling vhdl file "D:/Facultad/3ro/Organizacion de las computadoras/TP2/TPI2/Sumador_Branch.vhd" in Library work.
+Architecture behavioral of Entity pc_jump is up to date.
+Compiling vhdl file "D:/Facultad/3ro/Organizacion de las computadoras/TP2/TPI2/Mux2x1_SrcB.vhd" in Library work.
+Architecture behavioral of Entity mux2x1_srcb is up to date.
+Compiling vhdl file "D:/Facultad/3ro/Organizacion de las computadoras/TP2/TPI2/ALU.vhd" in Library work.
+Architecture behavioral of Entity alu is up to date.
+Compiling vhdl file "D:/Facultad/3ro/Organizacion de las computadoras/TP2/TPI2/Mux_Auipc.vhd" in Library work.
+Architecture behavioral of Entity mux_auipc is up to date.
+Compiling vhdl file "D:/Facultad/3ro/Organizacion de las computadoras/TP2/TPI2/Mux2x1_Data.vhd" in Library work.
+Architecture behavioral of Entity mux2x1_data is up to date.
+Compiling vhdl file "D:/Facultad/3ro/Organizacion de las computadoras/TP2/TPI2/Unidad_ME.vhd" in Library work.
+Architecture behavioral of Entity unidad_me is up to date.
+Compiling vhdl file "D:/Facultad/3ro/Organizacion de las computadoras/TP2/TPI2/Camino_Datos.vhd" in Library work.
+Entity <camino_datos> compiled.
+Entity <camino_datos> (Architecture <behavioral>) compiled.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.47 secs
+ 
+--> 
+
+Total memory usage is 4485244 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

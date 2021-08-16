@@ -1,0 +1,31 @@
+ISim log file
+Running: C:\Users\ro-d-\Facultad\Facultad\2020\segundo_Cuatrimestre\organizacion_de_las_Computadoras\TPI02_VHDL\AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020\tb_TOP_RV32I_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/tb_TOP_RV32I_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /tb_top_rv32i/uut/Inst_Procesador/Inst_Camino_Datos/Inst_mem_ROM/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /tb_top_rv32i/uut/Inst_Procesador/Inst_Camino_Datos/Inst_Banco_De_Registros/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /tb_top_rv32i/uut/Inst_Procesador/Inst_Camino_Datos/Inst_Banco_De_Registros/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /tb_top_rv32i/uut/Inst_Procesador/Inst_Camino_Datos/Inst_ALU/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /tb_top_rv32i/uut/Inst_mem_RAM/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /tb_top_rv32i/uut/Inst_Procesador/Inst_Camino_Datos/Inst_mem_ROM/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /tb_top_rv32i/uut/Inst_Procesador/Inst_Camino_Datos/Inst_Banco_De_Registros/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /tb_top_rv32i/uut/Inst_Procesador/Inst_Camino_Datos/Inst_Banco_De_Registros/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /tb_top_rv32i/uut/Inst_Procesador/Inst_Camino_Datos/Inst_ALU/ : Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+at 0 ps, Instance /tb_top_rv32i/uut/Inst_mem_RAM/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+Finished circuit initialization process.

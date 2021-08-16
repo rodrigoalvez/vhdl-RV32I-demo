@@ -1,0 +1,66 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -o "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/tb_TOP_RV32I_isim_beh.exe" -prj "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/tb_TOP_RV32I_beh.prj" "work.tb_TOP_RV32I" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/Reg_ME.vhd" into library work
+Parsing VHDL file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/Mux_ME.vhd" into library work
+Parsing VHDL file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/Contador_ME.vhd" into library work
+Parsing VHDL file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/Unidad_ME.vhd" into library work
+Parsing VHDL file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/Sumador_PC_4.vhd" into library work
+Parsing VHDL file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/Sumador_Branch.vhd" into library work
+Parsing VHDL file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/Mux_PCNext.vhd" into library work
+Parsing VHDL file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/Mux_Jump.vhd" into library work
+Parsing VHDL file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/Mux_JR.vhd" into library work
+Parsing VHDL file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/Mux_Auipc.vhd" into library work
+Parsing VHDL file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/Mux2x1_SrcB.vhd" into library work
+Parsing VHDL file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/Mux2x1_Data.vhd" into library work
+Parsing VHDL file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/mem_ROM.vhd" into library work
+Parsing VHDL file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/Main_Decoder.vhd" into library work
+Parsing VHDL file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/Gen_Imm.vhd" into library work
+Parsing VHDL file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/Contador_Programa.vhd" into library work
+Parsing VHDL file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/Banco_De_Regsitros.vhd" into library work
+Parsing VHDL file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/Alu_Decoder.vhd" into library work
+Parsing VHDL file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/ALU.vhd" into library work
+Parsing VHDL file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/Unit_Control.vhd" into library work
+Parsing VHDL file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/Camino_Datos.vhd" into library work
+Parsing VHDL file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/Procesador.vhd" into library work
+Parsing VHDL file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/mem_RAM.vhd" into library work
+Parsing VHDL file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/TOP_RV32I.vhd" into library work
+Parsing VHDL file "C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/tb_TOP_RV32I.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling architecture behavioral of entity Mux_Jump [mux_jump_default]
+Compiling architecture behavioral of entity Mux_PCPlus4 [mux_pcplus4_default]
+Compiling architecture behavioral of entity Sumador_PC_4 [sumador_pc_4_default]
+Compiling architecture behavioral of entity Contador_De_Programa [contador_de_programa_default]
+Compiling architecture behavioral of entity mem_ROM [mem_rom_default]
+Compiling architecture behavioral of entity Banco_De_Registros [banco_de_registros_default]
+Compiling architecture behavioral of entity Gen_Imm [gen_imm_default]
+Compiling architecture behavioral of entity Mux_JR [mux_jr_default]
+Compiling architecture behavioral of entity PC_Jump [pc_jump_default]
+Compiling architecture behavioral of entity Mux2x1_SrcB [mux2x1_srcb_default]
+Compiling architecture behavioral of entity ALU [alu_default]
+Compiling architecture behavioral of entity Mux_Auipc [mux_auipc_default]
+Compiling architecture behavioral of entity Mux2x1_Data [mux2x1_data_default]
+Compiling architecture behavioral of entity Reg_ME [reg_me_default]
+Compiling architecture behavioral of entity Contador_ME [contador_me_default]
+Compiling architecture behavioral of entity Mux_ME [mux_me_default]
+Compiling architecture behavioral of entity Unidad_ME [unidad_me_default]
+Compiling architecture behavioral of entity Camino_Datos [camino_datos_default]
+Compiling architecture behavioral of entity Main_Decoder [main_decoder_default]
+Compiling architecture behavioral of entity Alu_Decoder [alu_decoder_default]
+Compiling architecture behavioral of entity Unit_Control [unit_control_default]
+Compiling architecture behavioral of entity Procesador [procesador_default]
+Compiling architecture behavioral of entity mem_RAM [mem_ram_default]
+Compiling architecture behavioral of entity TOP_RV32I [top_rv32i_default]
+Compiling architecture behavior of entity tb_top_rv32i
+Time Resolution for simulation is 1ps.
+Waiting for 13 sub-compilation(s) to finish...
+Compiled 52 VHDL Units
+Built simulation executable C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/tb_TOP_RV32I_isim_beh.exe
+Fuse Memory Usage: 37468 KB
+Fuse CPU Usage: 780 ms

@@ -1,0 +1,1 @@
+vhdtdtfi -prj TPI2 -o "D:/Facultad/3ro/Organizacion de las computadoras/TP2/TPI2/Main_Decoder.vhi" -module Main_Decoder -template D:/Programas/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Main_Decoder.vhd 

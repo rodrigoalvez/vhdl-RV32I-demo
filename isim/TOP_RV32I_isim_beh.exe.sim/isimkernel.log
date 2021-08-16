@@ -1,0 +1,29 @@
+Command line:
+   TOP_RV32I_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  54690
+
+Mon Nov 16 00:39:20 2020
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 5164.87 Meg
+
+ Total Signals          : 121
+ Total Nets             : 5542
+ Total Signal Drivers   : 35
+ Total Blocks           : 21
+ Total Primitive Blocks : 17
+ Total Processes        : 26
+ Total Traceable Variables  : 13
+ Total Scalar Nets and Variables : 6025
+Total Line Count : 174
+
+ Total Simulation Time: 0.046875 sec
+
+ Current Memory Usage: 5164.87 Meg
+
+Mon Nov 16 00:39:39 2020
+

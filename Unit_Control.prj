@@ -1,0 +1,3 @@
+vhdl work "Main_Decoder.vhd"
+vhdl work "Alu_Decoder.vhd"
+vhdl work "Unit_Control.vhd"

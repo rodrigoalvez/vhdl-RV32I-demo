@@ -1,0 +1,1 @@
+vhdtdtfi -prj TPI2 -o "D:/Facultad/3ro/Organizacion de las computadoras/TP2/TPI2/Contador_ME.vhi" -module Contador_ME -template D:/Programas/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Contador_ME.vhd 

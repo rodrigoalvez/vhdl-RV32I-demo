@@ -1,0 +1,2 @@
+vhdtdtfi -prj TPI2 -o C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/TPI2/Mux_Jump.vhi -module Mux_Jump -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Mux_Jump.vhd 
+vhdtdtfi -prj TPI2 -o "D:/Facultad/3ro/Organizacion de las computadoras/TP2/TPI2/Mux_Jump.vhi" -module Mux_Jump -template D:/Programas/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Mux_Jump.vhd 

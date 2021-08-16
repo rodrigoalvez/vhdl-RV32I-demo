@@ -1,0 +1,5 @@
+set -tmpdir "D:/Facultad/3ro/Organizacion de las computadoras/TP2/TPI2/xst/projnav.tmp"
+set -xsthdpdir "D:/Facultad/3ro/Organizacion de las computadoras/TP2/TPI2/xst"
+elaborate
+-ifn Unit_Control.prj
+-ifmt mixed

@@ -1,0 +1,1 @@
+vhdtdtfi -prj TPI2 -o C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/TPI2/PC_Jump.vhi -module PC_Jump -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Sumador_Branch.vhd 

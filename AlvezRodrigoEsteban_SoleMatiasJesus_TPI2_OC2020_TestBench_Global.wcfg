@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/ro-d-/Facultad/Facultad/2020/segundo_Cuatrimestre/organizacion_de_las_Computadoras/TPI02_VHDL/AlvezRodrigoEsteban_SoleMatiasJesus_TPI2_OC2020/tb_TOP_RV32I_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="numeric_std" />
+            <top_module name="std_logic_1164" />
+            <top_module name="tb_top_rv32i" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="7" />
+   <wvobject fp_name="/tb_top_rv32i/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_rv32i/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_rv32i/uut/Inst_Procesador/Inst_Camino_Datos/Inst_Contador_De_Programa/pc_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pc_out[5:0]</obj_property>
+      <obj_property name="ObjectShortName">pc_out[5:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_rv32i/uut/Inst_Procesador/Inst_Camino_Datos/Inst_Contador_De_Programa/pc_next" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pc_next[5:0]</obj_property>
+      <obj_property name="ObjectShortName">pc_next[5:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_rv32i/uut/Inst_Procesador/Inst_Camino_Datos/Inst_mem_ROM/rom" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">rom[0:63]</obj_property>
+      <obj_property name="ObjectShortName">rom[0:63]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_rv32i/uut/Inst_Procesador/Inst_Camino_Datos/Inst_Banco_De_Registros/banco_reg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">banco_reg[0:31]</obj_property>
+      <obj_property name="ObjectShortName">banco_reg[0:31]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_rv32i/uut/Inst_mem_RAM/ram" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ram[0:63]</obj_property>
+      <obj_property name="ObjectShortName">ram[0:63]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>
